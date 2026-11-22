@@ -7,5 +7,5 @@ description: >-
 packages:
   defaults:
     - edition_principles
-    - editorial_method
+    - hypothesis_method
     - apparatus_sv

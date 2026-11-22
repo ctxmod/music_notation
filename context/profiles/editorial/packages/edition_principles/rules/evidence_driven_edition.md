@@ -17,7 +17,7 @@ Twenty-five operating principles for agents that read, transcribe, edit, engrave
 - **P-08** — Never do arithmetic a tool can do: octaves, durations, bar counts, scale factors.
 - **P-09** — Verify every music edit by meaning: a semantic diff must show exactly the intended change and nothing else.
 - **P-10** — Similarity creates a review obligation, never permission to homogenise: a tool that finds similar passages has no write path.
-- **P-11** — Test "omission" against "intentional difference" before supplying anything (the hypothesis method of the `editorial_method` package).
+- **P-11** — Test "omission" against "intentional difference" before supplying anything (the hypothesis method of the `hypothesis_method` package).
 - **P-12** — Layout is not music. Layout files and house overrides must leave the semantic diff empty.
 - **P-13** — Every departure from the basis carries an editorial id with a record, and every record names its marks; fingering is written plainly.
 
