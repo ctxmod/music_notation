@@ -3,3 +3,6 @@ description: >-
   The piano-fingering, hand-separation and pedalling research literature,
   synthesised across sources, with the openly licensed Srivatsan et al.
   (2022) checklist-model paper stored as a source.
+packages:
+  defaults:
+    - fingering_literature
