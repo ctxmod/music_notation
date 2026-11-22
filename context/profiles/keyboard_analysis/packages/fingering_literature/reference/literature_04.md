@@ -3,7 +3,7 @@
 Continued from `literature_03.md`.
 ## 4. Srivatsan & Berg-Kirkpatrick 2022, "Checklist Models for Improved Output Fluency in Piano Fingering Prediction"
 
-**Citation.** N. Srivatsan, T. Berg-Kirkpatrick. *Proc. ISMIR 2022*, Bengaluru (arXiv:2209.05622). Chunks: `sources/srivatsan_2022_checklist_fingering/chunks/01…07`.
+**Citation.** N. Srivatsan, T. Berg-Kirkpatrick. *Proc. ISMIR 2022*, Bengaluru (arXiv:2209.05622). Chunks: `sources/srivatsan_2022_checklist/chunks/01…07`.
 
 ### 4.1 Framing
 part 03, "model and input representations", part 05, "experimental setup"
