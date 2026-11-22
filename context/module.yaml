@@ -5,7 +5,7 @@ description: >-
   and Swedish apparatus conventions, reading voices from printed scores,
   the piano-fingering literature, and Socratic music-theory tutoring.
   Tool-neutral; consumers select profiles by concern.
-path: github.com/ctxmod/music/context
+path: github.com/ctxmod/music_notation/context
 requires:
   - github.com/ctxmod/writing/context
 default_profiles: []

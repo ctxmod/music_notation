@@ -5,4 +5,4 @@ description: >-
   changes.
 packages:
   defaults:
-    - lilypond_notation
+    - lilypond_recipes
