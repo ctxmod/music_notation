@@ -1,0 +1,8 @@
+title: Music Internal
+description: >-
+  Development-only context for authoring and maintaining the music
+  module itself.
+path: github.com/ctxmod/music/context.internal
+private: true
+requires:
+  - github.com/ctxmod/writing_context/context
