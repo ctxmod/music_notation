@@ -1,0 +1,11 @@
+title: Music
+description: >-
+  Music engraving, editing, transcription and keyboard-analysis knowledge
+  for agents: LilyPond notation recipes, evidence-driven editorial method
+  and Swedish apparatus conventions, reading voices from printed scores,
+  the piano-fingering literature, and Socratic music-theory tutoring.
+  Tool-neutral; consumers select profiles by concern.
+path: github.com/ctxmod/music/context
+requires:
+  - github.com/ctxmod/writing/context
+default_profiles: []
