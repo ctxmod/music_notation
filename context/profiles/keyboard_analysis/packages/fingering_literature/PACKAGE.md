@@ -24,4 +24,4 @@ Reading order:
 | `reference/literature_05.md` | 6–8 | Cross-source synthesis; study-library passages on fingering, pedalling, legato and hand use (Hofmann, Arrau, Schmitt, Kullak, Taub, Walker and others); bibliography to acquire next |
 | `reference/literature_06.md` | 9 | Design notes for the architect *[derived]* |
 
-Only `sources/srivatsan_2022_checklist_fingering/` carries full text (CC BY 4.0, © N. Srivatsan and T. Berg-Kirkpatrick; attribution in its `SOURCE.md`). The other papers and the pedagogical books are cited as bibliography only.
+Only `sources/srivatsan_2022_checklist/` carries full text (CC BY 4.0, © N. Srivatsan and T. Berg-Kirkpatrick; attribution in its `SOURCE.md`). The other papers and the pedagogical books are cited as bibliography only.
