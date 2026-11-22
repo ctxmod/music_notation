@@ -1,0 +1,8 @@
+title: Music Engraving
+description: >-
+  LilyPond notation recipes for engraving a printed edition: beaming,
+  grace notes, pedalling, spanner text, finger substitution and tempo
+  changes.
+packages:
+  defaults:
+    - lilypond_recipes

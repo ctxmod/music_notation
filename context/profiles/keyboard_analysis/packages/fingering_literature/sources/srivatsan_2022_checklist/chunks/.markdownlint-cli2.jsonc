@@ -1,0 +1,38 @@
+{
+  // Reasoned carve-outs for the Srivatsan & Berg-Kirkpatrick 2022 chunking
+  // (chunks are the edited layer; markdown/ stays as extraction evidence).
+  // Each carve-out names the extraction/print class it covers.
+  "config": {
+    // The print's Tables 1-3 and the confusion matrix linearize to pipe
+    // tables; re-alignment or rewrapping would churn table columns without
+    // touching content.
+    "MD013": false,
+    "MD060": false,
+    // Native extraction markers <page n="N" i="i" /> and <figure-region
+    // kind="..." i="i" /> stay inline (marker authority contract).
+    "MD033": {
+      "allowed_elements": ["page", "figure-region"]
+    },
+    // Chunks begin with their <page> provenance markers (or, for chunks 02
+    // and 05, a section heading that falls mid-page), not necessarily an
+    // H1 first.
+    "MD041": false,
+    // The extraction fences the arXiv stamp, glyph-mis-mapped subscript
+    // residue and formula fragments verbatim inside <figure-region>
+    // envelopes; they carry no language by extraction design. Adding a
+    // tag would be invention.
+    "MD040": false,
+    // Blank-line doubling survives at extraction page joins; whitespace
+    // only, no content class.
+    "MD012": false,
+    // The title-page authors table carries the print's own bare email
+    // addresses (nsrivats@cmu.edu, tberg@eng.ucsd.edu); verbatim print
+    // text, angle-bracket wrapping would be invention.
+    "MD034": false,
+    // The print sets caption-like lines (figure/table captions) in its own
+    // styling; kept here.
+    "MD036": false
+  },
+  "globs": ["*.md"],
+  "ignores": []
+}

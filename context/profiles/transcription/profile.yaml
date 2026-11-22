@@ -1,0 +1,8 @@
+title: Music Transcription
+description: >-
+  Reading a printed score into a structured transcription: how to decide
+  voices from the evidence on the page, and the context discipline an
+  agent keeps while reading images.
+packages:
+  defaults:
+    - score_reading

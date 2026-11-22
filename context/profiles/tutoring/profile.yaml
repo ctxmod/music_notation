@@ -1,0 +1,9 @@
+title: Music Theory Tutoring
+description: >-
+  A Socratic music-theory tutor: teaching method, output format, progress
+  tracking, and skills for studying, analysing, improvising, reviewing
+  pitfalls and steering a session. The consuming repository names the
+  tracker location and may supply a learner profile.
+packages:
+  defaults:
+    - socratic_tutor
