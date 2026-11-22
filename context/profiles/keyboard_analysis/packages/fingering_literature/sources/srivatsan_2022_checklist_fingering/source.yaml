@@ -1,0 +1,32 @@
+type: paper-conference
+title: "Checklist Models for Improved Output Fluency in Piano Fingering Prediction"
+coverage:
+  - "chunks/*.md"
+  - "markdown/srivatsan_2022_checklist_fingering.md"
+  - "raw/srivatsan_2022_checklist_fingering.pdf"
+author:
+  - family: "Srivatsan"
+    given: "Nikita"
+  - family: "Berg-Kirkpatrick"
+    given: "Taylor"
+container-title: "Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR), Bengaluru, India"
+issued: 2022
+publisher: "International Society for Music Information Retrieval"
+URL: "https://arxiv.org/abs/2209.05622"
+license: "CC BY 4.0"
+note: >-
+  © N. Srivatsan and T. Berg-Kirkpatrick. Licensed under a Creative
+  Commons Attribution 4.0 International License (CC BY 4.0), as stated on
+  page 1 of the PDF; redistributed here, with this attribution, as the
+  original PDF, its extraction and an edited chunking.
+provenance:
+  origin: "arXiv:2209.05622v1, https://arxiv.org/pdf/2209.05622v1"
+  format: pdf
+  size: "866 KB"
+  sha256: "7eba24b8a4a5c1141d6e3b71c8eb116a123be1caa22bf76f3febab9c76a3d372"
+  pages: 7
+  text_layer: native
+  arxiv_id: "2209.05622v1 [cs.LG]"
+  license: "CC BY 4.0 (stated on page 1 of the PDF)"
+  doi: "none stated in the PDF; DOI-less record"
+  identity_notes: "ISMIR 2022 conference paper (English), born-digital arXiv v1 (12 Sep 2022); no DOI stated in the PDF itself; physical i= indexes 0-6, page labels 1-7 with no reset"
