@@ -30,5 +30,5 @@ Apparaten är en förteckning över *godkända* ingrepp: en post trycks bara nä
 Urtext-vägran är en **formuleringsregel**:
 
 - Apparattexten påstår alltid *vad utgåvan gör* och *vad källan säger* — aldrig vad utgåvan *är*. Orden *urtext* och *urtextutgåva* förekommer endast som källslagsnamn i källförteckningen, aldrig som självbeskrivning av utgåvan.
-- Påståendeverbet följer dispositionen: ett `preserve-source` formuleras som vad källan bär ("källan har …, följt i trycket"), ett `supply-from-parallel` som varifrån kompletteringen hämtats och var dess gräns går, ett `normalise-notation` som vilken normalisering som skett och varför. Mönstren per disposition och fall finns i fallboken (`editorial_method`, `casebook.md`).
+- Påståendeverbet följer dispositionen: ett `preserve-source` formuleras som vad källan bär ("källan har …, följt i trycket"), ett `supply-from-parallel` som varifrån kompletteringen hämtats och var dess gräns går, ett `normalise-notation` som vilken normalisering som skett och varför. Mönstren per disposition och fall finns i fallboken (`hypothesis_method`, `casebook.md`).
 - Texten får inte bära ett skäl som posten inte räknar som belägg: varje mening om *varför* ska kunna spåras till beslutets hypotes och dess sparade familjebevis — annars stryks meningen, inte beviset.
