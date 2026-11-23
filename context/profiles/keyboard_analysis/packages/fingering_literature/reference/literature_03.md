@@ -3,7 +3,7 @@
 Continued from `literature_02.md`.
 ## 3. Randolph 2023, "Toward Actionable Computational Models of Piano Fingering"
 
-**Citation.** David A. Randolph, PhD dissertation, University of Illinois Chicago, 2023 (advisor B. Di Eugenio). It incorporates SMC 2021 (ERR), SMC 2023 (CRF), ISMIR LBD 2016 (abcDE, Dactylize) and ISMIR LBD 2018 (Pydactyl). Chunks: Randolph 2023.
+**Citation.** David A. Randolph, *Toward Actionable Computational Models of Piano Fingering*, PhD dissertation, University of Illinois Chicago, 2023 (advisor B. Di Eugenio; UIC INDIGO repository, posted 2023-08-01). It incorporates SMC 2021 (ERR), SMC 2023 (CRF), ISMIR LBD 2016 (abcDE, Dactylize) and ISMIR LBD 2018 (Pydactyl). Chunks: Randolph 2023.
 
 ### 3.1 Problem taxonomy
 part 02, "ch1 introduction" §1.3, Table I

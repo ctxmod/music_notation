@@ -3,7 +3,7 @@
 Continued from `literature_01.md`.
 ## 2. Nakamura, Saito, Yoshii 2020, "Statistical learning and estimation of piano fingering"
 
-**Citation.** E. Nakamura, Y. Saito, K. Yoshii. *Information Sciences* 517:68–85 (2020). doi:10.1016/j.ins.2019.12.068. Chunks: Nakamura, Saito and Yoshii 2020.
+**Citation.** E. Nakamura, Y. Saito, K. Yoshii. *Information Sciences* 517:68–85 (2020). doi:10.1016/j.ins.2019.12.068 (preprint arXiv:1904.10237). Chunks: Nakamura, Saito and Yoshii 2020.
 
 ### 2.1 Problem framing
 part 04, "hmm model" §5.1

@@ -3,7 +3,7 @@
 Continued from `literature_03.md`.
 ## 4. Srivatsan & Berg-Kirkpatrick 2022, "Checklist Models for Improved Output Fluency in Piano Fingering Prediction"
 
-**Citation.** N. Srivatsan, T. Berg-Kirkpatrick. *Proc. ISMIR 2022*, Bengaluru (arXiv:2209.05622). Chunks: `sources/srivatsan_2022_checklist/chunks/01…07`.
+**Citation.** N. Srivatsan, T. Berg-Kirkpatrick. "Checklist Models for Improved Output Fluency in Piano Fingering Prediction". *Proc. 23rd ISMIR Conf.*, Bengaluru, 2022, pp. 525–531. doi:10.5281/zenodo.7316716 (proceedings version); arXiv:2209.05622 (the stored copy). CC BY 4.0. Chunks: `sources/srivatsan_2022_checklist/chunks/01…07`.
 
 ### 4.1 Framing
 part 03, "model and input representations", part 05, "experimental setup"
@@ -108,7 +108,7 @@ part 06, "results", Tables 1–2. All rows are on the same test set; counts are 
 
 **Citation.** A. Al Kasimi, E. Nichols, C. Raphael (Indiana University). "Automatic Fingering System (AFS)", 4 pp. © 2005 Queen Mary, University of London.
 - The venue, an **ISMIR 2005** late-breaking/demo paper, is *inferred* from the copyright line and PDF metadata (`source.yaml`).
-- Nakamura and Randolph also cite a follow-up: *A simple algorithm for automatic generation of polyphonic piano fingerings*, ISMIR 2007, pp. 355–356. That paper is not in the repo.
+- Nakamura and Randolph also cite a follow-up: *A simple algorithm for automatic generation of polyphonic piano fingerings*, ISMIR 2007, pp. 355–356, doi:10.5281/zenodo.1415880. That paper is not in the repo.
 - Chunks: Al Kasimi, Nichols and Raphael 2005, part 01, "title abstract problem application", part 02, "costs initialization dynamic programming", part 03, "trellis machine learning", part 04, "results outputs references".
 
 ### 5.1 Framing

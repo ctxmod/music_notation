@@ -11,6 +11,8 @@ author:
     given: "Taylor"
 container-title: "Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR), Bengaluru, India"
 issued: 2022
+page: "525-531"
+DOI: "10.5281/zenodo.7316716"
 publisher: "International Society for Music Information Retrieval"
 URL: "https://arxiv.org/abs/2209.05622"
 license: "CC BY 4.0"
@@ -28,5 +30,5 @@ provenance:
   text_layer: native
   arxiv_id: "2209.05622v1 [cs.LG]"
   license: "CC BY 4.0 (stated on page 1 of the PDF)"
-  doi: "none stated in the PDF; DOI-less record"
+  doi: "none stated in the stored arXiv PDF; the proceedings version (pp. 525-531) carries Zenodo DOI 10.5281/zenodo.7316716, also CC BY 4.0"
   identity_notes: "ISMIR 2022 conference paper (English), born-digital arXiv v1 (12 Sep 2022); no DOI stated in the PDF itself; physical i= indexes 0-6, page labels 1-7 with no reset"
