@@ -21,7 +21,7 @@ Sources are cited by author and year, with the part of the source a point comes 
 
 ## 1. Parncutt et al. 1997, "An Ergonomic Model of Keyboard Fingering for Melodic Fragments"
 
-**Citation.** R. Parncutt, J. A. Sloboda, E. F. Clarke, M. Raekallio, P. Desain. *Music Perception* 14(4):341–382, Summer 1997. Chunks: Parncutt et al. 1997, part 01, "title abstract" … part 11, "appendix".
+**Citation.** R. Parncutt, J. A. Sloboda, E. F. Clarke, M. Raekallio, P. Desain. *Music Perception* 14(4):341–382, Summer 1997. doi:10.2307/40285730. Chunks: Parncutt et al. 1997, part 01, "title abstract" … part 11, "appendix".
 
 ### 1.1 Problem framing
 part 03, "model overview and terminology"

@@ -1,8 +1,9 @@
 title: Music Transcription
 description: >-
   Reading a printed score into a structured transcription: how to decide
-  voices from the evidence on the page, and the context discipline an
-  agent keeps while reading images.
+  voices from the evidence on the page, the context discipline an agent
+  keeps while reading images, and where optical music recognition output
+  needs the closest reading.
 packages:
   defaults:
     - score_reading

@@ -3,7 +3,7 @@
 Source record for the `fingering_literature` package of the `keyboard_analysis` profile (see `source.yaml` for
 bibliographic data).
 
-**Licence and attribution.** © N. Srivatsan and T. Berg-Kirkpatrick, "Checklist Models for Improved Output Fluency in Piano Fingering Prediction", in *Proc. of the 23rd Int. Society for Music Information Retrieval Conf.*, Bengaluru, India, 2022 (arXiv:2209.05622). Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). This package redistributes the original PDF unchanged (`raw/`), its unedited text extraction (`markdown/`) and an edited chunking (`chunks/`); the changes in the chunking are listed below. It is the only full-text source in this module: the other fingering papers carry no open licence and are cited as bibliography only. This is the FULL-PIPELINE record for this source:
+**Licence and attribution.** © N. Srivatsan and T. Berg-Kirkpatrick, "Checklist Models for Improved Output Fluency in Piano Fingering Prediction", in *Proc. of the 23rd Int. Society for Music Information Retrieval Conf.*, Bengaluru, India, 2022 (arXiv:2209.05622; proceedings pp. 525–531, doi:10.5281/zenodo.7316716). Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). This package redistributes the original PDF unchanged (`raw/`), its unedited text extraction (`markdown/`) and an edited chunking (`chunks/`); the changes in the chunking are listed below. It is the only full-text source in this module: the other fingering papers carry no open licence and are cited as bibliography only. This is the FULL-PIPELINE record for this source:
 ingest, figure-site census, transcription/formatting, chunking — all in
 one pass (both phases landed together).
 
@@ -14,8 +14,10 @@ one pass (both phases landed together).
   T. Berg-Kirkpatrick (UC San Diego); published in Proc. of the 23rd
   Int. Society for Music Information Retrieval Conf. (ISMIR), Bengaluru,
   India, 2022. Copyright footer: © N. Srivatsan and T. Berg-Kirkpatrick,
-  CC BY 4.0. No DOI stated in the PDF (DOI-less record in `source.yaml`;
-  the arXiv id is recorded instead).
+  CC BY 4.0. No DOI stated in the stored arXiv PDF; the ISMIR proceedings
+  version (pp. 525–531, Zenodo DOI 10.5281/zenodo.7316716, also CC BY
+  4.0, checked 2026-11-23) is recorded in `source.yaml` beside the arXiv
+  id. The stored copy remains the arXiv v1 file.
 - Born-digital with a native text layer (letter/A4 portrait, 7 pages,
   866 KB). ISMIR two-column layout.
 - `raw/` holds a byte-identical copy of the original arXiv download
