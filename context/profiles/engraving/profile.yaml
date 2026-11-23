@@ -1,8 +1,10 @@
 title: Music Engraving
 description: >-
-  LilyPond notation recipes for engraving a printed edition: beaming,
+  LilyPond notation recipes for engraving a printed edition (beaming,
   grace notes, pedalling, spanner text, finger substitution and tempo
-  changes.
+  changes) against the LilyPond 2.26 baseline, and the interchange and
+  font standards around it: MusicXML, MNX, MEI and SMuFL.
 packages:
   defaults:
     - lilypond_recipes
+    - interchange
